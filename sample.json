@@ -12,23 +12,22 @@
       {"time": 12, "ShowID": 0},
       {"time": 15, "ShowID": 0},
       {"time": 18, "ShowID": 0},
-      {"time": 21, "ShowID": 0}
-    ]
-    "Special": [
+      {"time": 21, "ShowID": 0}],
+"Special": [
       {"time": 18, "Date": "1/8/24", "ShowID": 1}
     ]
   }
-}}
-
-{"Shows": [
+},
+ 
+"Shows": [
   {
   "name": "24/7 News Now",
   "id": 0,
-  "Description": "Your news, right now.",
-}
+  "Description": "Your news, right now."
+  },
   {
   "name": "Fourth GOP Debate",
   "id": 1,
-  "Description": "Oh no, not another one.",
+  "Description": "Oh no, not another one."
 }
 ]}
