@@ -1,0 +1,34 @@
+{"Channels": {
+  "Name": "News Channel Radio",
+  "ID": 0,
+  "Active": yes,
+  "Description": "A channel for your news.",
+  "Programs": {
+    "Regular": [
+      {"time": 0, "ShowID": 0},
+      {"time": 3, "ShowID": 0},
+      {"time": 6, "ShowID": 0},
+      {"time": 9, "ShowID": 0},
+      {"time": 12, "ShowID": 0},
+      {"time": 15, "ShowID": 0},
+      {"time": 18, "ShowID": 0},
+      {"time": 21, "ShowID": 0}
+    ]
+    "Special": [
+      {"time": 18, "Date": "1/8/24", "ShowID": 1}
+    ]
+  }
+}}
+
+{"Shows": [
+  {
+  "name": "24/7 News Now",
+  "id": 0,
+  "Description": "Your news, right now.",
+}
+  {
+  "name": "Fourth GOP Debate",
+  "id": 1,
+  "Description": "Oh no, not another one.",
+}
+]}
